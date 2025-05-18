@@ -27,21 +27,21 @@ pip install -r requirements.txt
 
 ```bash
 solar-challenge-week0/
-├── .vscode/                 # VSCode-specific settings
+├── .vscode/
 │   └── settings.json
-├── .github/                 # GitHub Actions for CI/CD
+├── .github/
 │   └── workflows/
 │       └── ci.yml
-├── .gitignore               # Git ignored files
-├── requirements.txt         # Python dependencies
-├── README.md                # Project documentation
-├── src/                     # Core source code
-├── notebooks/               # Jupyter notebooks
+├── .gitignore
+├── requirements.txt
+├── README.md
+├── src/
+├── notebooks/
 │   ├── __init__.py
 │   └── README.md
-├── tests/                   # Unit and integration tests
+├── tests/
 │   └── __init__.py
-└── scripts/                 # Utility and automation scripts
+└── scripts/
     ├── __init__.py
     └── README.md
 ```
